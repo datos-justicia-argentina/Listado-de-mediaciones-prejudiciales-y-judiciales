@@ -31,9 +31,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Mediaciones prejudiciales y judiciales
+### Mediaciones prejudiciales y judiciales - estado al aaaa-mm-dd
 
--   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales.csv
+-   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-aaaa-mm.csv
 
 -   **Descripción del contenido:** Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
