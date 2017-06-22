@@ -1,5 +1,5 @@
-Mediaciones prejudiciales y judiciales. Ley 26.589
-==================================================
+Listado de mediaciones prejudiciales y judiciales. Ley 26.589
+=============================================================
 
 La mediación es un método que permite la resolución de los conflictos de manera pacífica, a través del diálogo, en el que el mediador como tercero neutral acompaña a las partes para que, como protagonistas del procedimiento, encuentren las soluciones que les resulten más beneficiosas a sus intereses.
 
@@ -33,7 +33,7 @@ Recursos disponibles
 
 ### Mediaciones prejudiciales y judiciales - estado al aaaa-mm-dd
 
--   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-aaaa-mm.csv
+-   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-estado-al-dd-mm-aaaa.csv
 
 -   **Descripción del contenido:** Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
