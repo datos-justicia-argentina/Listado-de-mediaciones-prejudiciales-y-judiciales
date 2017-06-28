@@ -31,37 +31,37 @@ Características
 Recursos disponibles
 --------------------
 
-### Mediaciones prejudiciales y judiciales - estado al aaaa-mm-dd
+### Mediaciones prejudiciales y judiciales - AAAA-MM
 
--   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-estado-al-dd-mm-aaaa.csv
+-   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-AAAA-MM.csv
 
--   **Descripción del contenido:** Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
+-   **Descripción del contenido:** mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Desde el 17/02/2014 hasta la actualidad
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **fuero (string):** Fuero en el cual se inscribe. Civil, Comercial o Civil y Comercial Federal
+-   **fuero (string):** fuero en el cual se inscribe. Civil, Comercial o Civil y Comercial Federal
 
--   **mediación (int):** Número de mediación
+-   **mediación (int):** número de mediación
 
--   **tipo_mediacion (string):** Pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos)
+-   **tipo_mediacion (string):** pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos)
 
--   **estado (string):** La mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia
+-   **estado (string):** la mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia
 
--   **reapertura (string):** Indica si se reabrió la mediación. Valores Si/No
+-   **reapertura (string):** indica si se reabrió la mediación. Valores Si/No
 
--   **fecha_de_inicio (date):** Fecha de inicio de la mediación
+-   **fecha_de_inicio (date):** fecha de inicio de la mediación
 
--   **objeto (string):** Se consigna el objeto de la acción
+-   **objeto (string):** se consigna el objeto de la acción
 
--   **honorarios_pagos (string):** Se consigna si el mediador percibió o no sus honorarios provisionales
+-   **honorarios_pagos (string):** se consigna si el mediador percibió o no sus honorarios provisionales
 
--   **mediador (int):** Número de mediador
+-   **mediador (int):** número de mediador
 
--   **resultado (string):** Resultado de las mediaciones. Valores posibles:
+-   **resultado (string):** resultado de las mediaciones. Valores posibles:
 
     -   Se medió con acuerdo parcial
 
@@ -91,9 +91,9 @@ Recursos disponibles
 
     -   No se medió por plantearse la recusación al Mediador
 
--   **cantidad_de_audiencias (int):** Cantidad de audiencias realizadas
+-   **cantidad_de_audiencias (int):** cantidad de audiencias realizadas
 
--   **fecha_ultima_audiencia (date):** Fecha de la última audiencia efectuada
+-   **fecha_ultima_audiencia (date):** fecha de la última audiencia efectuada
 
 ### Notas
 
