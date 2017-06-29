@@ -14,7 +14,7 @@ En este cuerpo de datos se detalla las mediaciones prejudiciales y judiciales (l
 Características
 ---------------
 
--   **Fecha de Publicación:** 12/07/2016
+-   **Fecha de Primera Publicación:** 12/07/2016
 
 -   **Tags o Etiquetas:** mediación, resolución alternativa de conflictos, prejudicial
 
