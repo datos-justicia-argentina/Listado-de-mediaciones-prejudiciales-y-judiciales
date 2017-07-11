@@ -77,7 +77,7 @@ Recursos disponibles
 
     -   No corresponde
 
-    -   No se medió por excusarse el Mediador
+    -   No se medió por excusarse el mediador
 
     -   Se medió sin acuerdo
 
@@ -89,7 +89,7 @@ Recursos disponibles
 
     -   No se medió por ausencia del requirente notificado
 
-    -   No se medió por plantearse la recusación al Mediador
+    -   No se medió por plantearse la recusación al mediador
 
 -   **cantidad_de_audiencias (int):** cantidad de audiencias realizadas
 
