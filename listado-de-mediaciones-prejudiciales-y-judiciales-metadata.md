@@ -9,7 +9,7 @@ Las mediaciones pueden ser públicas, donde el mediador es sorteado por la cáma
 
 La Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos cuenta con un Centro de Prevención y Resolución de Conflictos que brinda un servicio gratuito de mediación prejudicial obligatoria y comunitaria destinada a población en situación de vulnerabilidad económica y social.
 
-En este cuerpo de datos se detalla las mediaciones prejudiciales y judiciales (las ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, el cual está operativo desde febrero de 2014. El sistema es de uso obligatorio para los mediadores para registrar y emitir actas de mediaciones prejudiciales.
+En este cuerpo de datos se detallan las mediaciones prejudiciales y judiciales (las ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, el cual está operativo desde febrero de 2014. El sistema es de uso obligatorio para los mediadores para registrar y emitir actas de mediaciones prejudiciales.
 
 Características
 ---------------
