@@ -11,12 +11,14 @@ La Dirección Nacional de Mediación y Métodos Participativos de Resolución de
 
 En este cuerpo de datos se detallan las mediaciones prejudiciales y judiciales (las ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, el cual está operativo desde febrero de 2014. El sistema es de uso obligatorio para los mediadores para registrar y emitir actas de mediaciones prejudiciales.
 
+http://datos.jus.gob.ar/dataset/mediaciones-prejudiciales-y-judiciales
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 12/07/2016
 
--   **Tags o Etiquetas:** mediación, resolución alternativa de conflictos, prejudicial
+-   **Tags o Etiquetas:** mediaciones, resoluciones alternativas de conflictos, prejudiciales
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
@@ -35,7 +37,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-AAAA-MM.csv
 
--   **Descripción del contenido:** mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
+-   **Descripción del contenido:** se detallan las mediaciones prejudiciales y judiciales (ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, operativo desde febrero de 2014. mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
