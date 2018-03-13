@@ -41,7 +41,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** mediaciones prejudiciales y judiciales desde febrero de 2014 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -120,3 +120,5 @@ La [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada 
 **Resultados de las mediaciones**: al consultar resultados de las mediaciones deben tenerse en cuenta solamente las que tienen estado de “finalizadas”. Las mediaciones en otro estado no presentan resultado.
 
 **Fecha de finalización mediaciones:** la fecha de finalización de la mediación es la correspondiente a la última audiencia.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
