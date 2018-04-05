@@ -33,7 +33,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Mediaciones prejudiciales y judiciales - AAAA-MM
+### Listado de mediaciones prejudiciales y judiciales - AAAA-MM
 
 -   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-AAAA-MM.csv
 
