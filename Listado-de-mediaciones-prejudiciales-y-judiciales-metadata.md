@@ -97,6 +97,14 @@ Recursos disponibles
 
 -   **fecha_ultima_audiencia (date):** fecha de la última audiencia efectuada
 
+### Listado de mediaciones prejudiciales y judiciales - AAAA
+
+- **Nombre:** mediaciones-prejudiciales-y-judiciales-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
 ### Notas
 
 La [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010, establece la obligatoriedad de la mediación previa a los procesos judiciales. 
