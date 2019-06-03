@@ -33,9 +33,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Listado de mediaciones prejudiciales y judiciales - AAAA-MM
+### Listado de mediaciones prejudiciales y judiciales - AAAAMM
 
--   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-AAAA-MM.csv
+-   **Nombre del archivo:** mediaciones-prejudiciales-y-judiciales-AAAAMM.csv
 
 -   **Descripción del contenido:** se detallan las mediaciones prejudiciales y judiciales (ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, operativo desde febrero de 2014. mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
