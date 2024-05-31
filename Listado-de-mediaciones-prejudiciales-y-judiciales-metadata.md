@@ -20,11 +20,11 @@ Características
 
 -   **Tags o Etiquetas:** mediaciones, resoluciones alternativas de conflictos, prejudiciales
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
 -   **Grupo:** Acceso a la Justicia
 
@@ -49,7 +49,7 @@ Recursos disponibles
 
 -   **mediación (int):** número de mediación
 
--   **tipo_mediacion (string):** pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos)
+-   **tipo_mediacion (string):** pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia)
 
 -   **estado (string):** la mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia
 
@@ -131,4 +131,4 @@ La [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada 
 
 **Fecha de finalización mediaciones:** la fecha de finalización de la mediación es la correspondiente a la última audiencia.
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2016-986-E-APN-MJ.pdf), del 26 de Octubre de 2016.
